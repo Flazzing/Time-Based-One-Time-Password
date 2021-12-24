@@ -1,0 +1,9 @@
+Note: Make sure to have PIP install
+
+Command to execute the activation of virtual env file
+ .\venv\Scripts\activate
+
+1. The program generate a qrcode that generates the totp (works with google authenticator)
+
+
+
